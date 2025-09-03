@@ -32,30 +32,5 @@ This project is a **Self-Watering System** designed to automate watering for pla
 ```
 [ Sensor ] -- [ Microcontroller ] -- [ Relay ] -- [ Pump ]
 ```
-
-## Getting Started
-
-1. **Clone this repository:**
-    ```bash
-    git clone https://github.com/chengat/self-watering-system.git
-    ```
-2. **Assemble hardware** according to the wiring diagram.
-3. **Configure software:** Edit code files to adjust thresholds and hardware pin assignments as needed.
-4. **Upload code** to your microcontroller.
-5. **Test the system** with your plants.
-
-## Customization
-
-You can expand and modify the system to support:
-- Multiple plant zones
-- Advanced scheduling (e.g., only water during certain times)
-- Integration with smart home systems
-- Monitoring via web dashboard or mobile app
-
-## License
-
-This project is open source under the MIT License.
-
 ---
-
 **Happy growing!**
