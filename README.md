@@ -33,4 +33,8 @@ This project is a **Self-Watering System** designed to automate watering for pla
 [ Sensor ] -- [ Microcontroller ] -- [ Relay ] -- [ Pump ]
 ```
 ---
+
+## Setup
+
+![Picture of the Setup](https://github.com/chengat/self-watering-system/blob/main/Setup%20Picture.jpg)
 **Happy growing!**
