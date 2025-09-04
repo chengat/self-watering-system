@@ -45,7 +45,7 @@ This project is a **Self-Watering System** designed to automate watering for pla
 
 ## UI
 
-![Serial Port Data] (https://github.com/chengat/self-watering-system/blob/main/Serial%20Reading.png)
+![Serial Port Data](https://github.com/chengat/self-watering-system/blob/main/Serial%20Reading.png)
 ![Live Moisture Sensor Data and controls](https://github.com/chengat/self-watering-system/blob/main/UI.png)
 
 **Happy growing!**
