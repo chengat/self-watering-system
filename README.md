@@ -17,24 +17,35 @@ This project is a **Self-Watering System** designed to automate watering for pla
 3. **Watering:** If the soil is dry, the microcontroller activates a pump or solenoid valve to deliver water to the plant.
 4. **Feedback:** The system stops watering once desired moisture is reached.
 
-## Typical Hardware Components
+## Components
 
-- Microcontroller (e.g., Arduino, ESP32, Raspberry Pi)
-- Soil moisture sensor(s)
-- Relay module or transistor circuit
-- Water pump or solenoid valve
-- Water source (reservoir or tap)
-- Tubing for water delivery
-- Power supply
+- Grove Arduino Board
+- Jumper Cables
+- MOSFET Board
+- Battery Case
+- Water Pump
+- Pipe
+- Micro-USB cable
+- Moisture Sensor
+- Water Supply
+- OLED Display
 
-## Example Wiring Diagram
+## Wiring Diagram
 
 ```
-[ Sensor ] -- [ Microcontroller ] -- [ Relay ] -- [ Pump ]
+[ Sensor ] -- [ Microcontroller ] -- [ MOSFET ] -- [ Pump ]
+                                         |
+                                     [ Power ]
 ```
 ---
 
 ## Setup
 
 ![Picture of the Setup](https://github.com/chengat/self-watering-system/blob/main/Setup%20Picture.jpg)
+
+## UI
+
+![Serial Port Data] (https://github.com/chengat/self-watering-system/blob/main/Serial%20Reading.png)
+![Live Moisture Sensor Data and controls](https://github.com/chengat/self-watering-system/blob/main/UI.png)
+
 **Happy growing!**
